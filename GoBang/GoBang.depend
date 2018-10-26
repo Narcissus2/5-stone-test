@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1540522735 source:d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\gobang\chessboard.cpp
+	"ChessBoard.h"
+
+1540523913 d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\gobang\chessboard.h
+
+1540523280 source:d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\gobang\gamestate.cpp
+	"GameState.h"
+	<iostream>
+
+1540522909 d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\gobang\gamestate.h
+
+1540522706 source:d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\gobang\player.cpp
+	"Player.h"
+
+1540522706 d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\gobang\player.h
+
+1540522706 source:d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\5-stone-test\gobang\player.cpp
+	"Player.h"
+
+1540525489 d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\5-stone-test\gobang\player.h
+	<iostream>
+	"ChessBoard.h"
+
+1540524482 source:d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\5-stone-test\gobang\chessboard.cpp
+	"ChessBoard.h"
+
+1540525317 d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\5-stone-test\gobang\chessboard.h
+	<iostream>
+
+1540524546 source:d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\5-stone-test\gobang\gamestate.cpp
+	"GameState.h"
+	"ChessBoard.h"
+	<iostream>
+
+1540523935 d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\5-stone-test\gobang\gamestate.h
+	"ChessBoard.h"
+
+1540525077 source:d:\子越文档\onedrive - 广厚设计学校\大学\课程\自学\github\5-stone-test\gobang\main.cpp
+	<iostream>
+	<windows.h>
+	"GameState.h"
+
